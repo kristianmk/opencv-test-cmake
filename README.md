@@ -57,6 +57,10 @@ To build the project:
 
 After building, you can run the example executable:
 
+  ```bash
+    build/bin/opencv-test
+  ```
+
 ### Cleaning the Project
 To clean the project and remove all build artifacts, including the cached OpenCV data:
 
